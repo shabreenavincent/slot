@@ -114,10 +114,10 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://shabreenavincent.student.saveetha.in:8000/static/image/out.png?raw=true)
+![OUTPUT](./out.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://shabreenavincent.student.saveetha.in:8000/static/image/valid.png?raw=true)
+![HTML VALIDATOR](./valid.png)
 
 # RESULT
 The program for creating slot timetable is completed successfully
